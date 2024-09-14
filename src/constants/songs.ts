@@ -670,7 +670,6 @@ export const songs = [
   { artist: "Toby Fox", name: "Death by Glamour (Undertale)", youtubeId: "2TgO-tN5wAM" },
   { artist: "Buster Poindexter and His Banshees Of Blue", name: "Hot Hot Hot", youtubeId: "bKP18BpvX_o" },
   { artist: "Michael Jackson", name: "Rock with You", youtubeId: "OvzJZTkWYoY" },
-  { artist: "Barbra Streisand", name: "Memory", youtubeId: "wbqsd4Flxh4" },
   { artist: "Grand Funk Railroad", name: "We're An American Band", youtubeId: "QxNXFNCTr2I" },
   { artist: "Paul Simon", name: "You Can Call Me Al", youtubeId: "OMbfT3Wppjo" },
   { artist: "Hot Chelle Rae, New Boyz", name: "I Like It Like That", youtubeId: "Xvs5YJ7-two" },

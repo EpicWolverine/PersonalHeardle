@@ -525,7 +525,7 @@ export const songs = [
   { artist: "Foreigner", name: "Double Vision", youtubeId: "j9K68tR9IsE" },
   { artist: "The Trammps", name: "Disco Inferno (Edit)", youtubeId: "pG8TyIEAqps" },
   { artist: "Guns N' Roses", name: "Patience", youtubeId: "MkoeqtKUUe4" },
-  { artist: "Pop Up!", name: "Paradise City", youtubeId: "xATTkS5Lwb0" },
+  { artist: "Pop Up!", name: "Paradise City", youtubeId: "-Sn-AJt8JCg" },
   { artist: "Galantis", name: "Peanut Butter Jelly", youtubeId: "nAXP8wb7VWI" },
   { artist: "Manfred Mann's Earth Band, Manfred Mann's Earth Band", name: "Blinded By The Light", youtubeId: "JZW9meY2IPw" },
   { artist: "Barenaked Ladies", name: "Odds Are", youtubeId: "FrMdoHrKspE" },

@@ -18,7 +18,6 @@ export function Header({ openInfoPopUp }: Props) {
           width={30}
           height={30}
         />
-
         <Styled.Logo>{appName}</Styled.Logo>
         <a href="#"></a>
       </Styled.Content>

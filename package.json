@@ -70,5 +70,6 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "husky": "^7.0.4",
     "prettier": "^2.6.0"
-  }
+  },
+  "packageManager": "yarn@4.5.1"
 }

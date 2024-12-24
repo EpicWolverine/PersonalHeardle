@@ -603,7 +603,7 @@ export const songs = [
   { artist: "Maxine Nightingale", name: "Right Back Where We Started From", youtubeId: "JoI7MLxGRjQ" },
   { artist: "Thin Lizzy", name: "The Boys Are Back In Town", youtubeId: "nN120kCiVyQ" },
   { artist: "Rick Astley", name: "Never Gonna Give You Up", youtubeId: "dQw4w9WgXcQ" },
-  { artist: "Depeche Mode", name: "Just Can't Get Enough", youtubeId: "yI_DKk3mxOI" },
+  { artist: "Depeche Mode", name: "Just Can't Get Enough", youtubeId: "kcaEdOBAQXU" },
   { artist: "Billy Joel", name: "Pressure", youtubeId: "dFR6VoUdoTo" },
   { artist: "Jeff D. Elliott", name: "Top Secret", youtubeId: "okHAnJHdLwM" },
   { artist: "Imagine Dragons", name: "Radioactive", youtubeId: "3Yb2-CWjrME" },

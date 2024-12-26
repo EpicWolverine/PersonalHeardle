@@ -605,7 +605,7 @@ export const songs = [
   { artist: "Rick Astley", name: "Never Gonna Give You Up", youtubeId: "dQw4w9WgXcQ" },
   { artist: "Depeche Mode", name: "Just Can't Get Enough", youtubeId: "kcaEdOBAQXU" },
   { artist: "Billy Joel", name: "Pressure", youtubeId: "dFR6VoUdoTo" },
-  { artist: "Jeff D. Elliott", name: "Top Secret", youtubeId: "okHAnJHdLwM" },
+  { artist: "Jeff D. Elliott", name: "Top Secret (Maize)", youtubeId: "okHAnJHdLwM" },
   { artist: "Imagine Dragons", name: "Radioactive", youtubeId: "3Yb2-CWjrME" },
   { artist: "The Killers", name: "Somebody Told Me", youtubeId: "liRMxUT8A2c" },
   { artist: "Culture Club", name: "Karma Chameleon", youtubeId: "S8Cv5XbG428" },

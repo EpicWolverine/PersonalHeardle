@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: ./.github/actions/build.yml
+      - uses: ./.github/actions/build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

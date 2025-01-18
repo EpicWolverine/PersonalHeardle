@@ -628,7 +628,7 @@ export const songs = [
   { artist: "Daryl Hall & John Oates", name: "Private Eyes", youtubeId: "0aQKmbtp6Pc" },
   { artist: "Robin Schulz", name: "Sugar (feat. Francesco Yates)", youtubeId: "bvC_0foemLY" },
   { artist: "Dire Straits", name: "Industrial Disease", youtubeId: "u_mF0DhDSlo" },
-  { artist: "Savant", name: "Laser Sharks (Original Mix)", youtubeId: "21BgQj2sVeI" },
+  { artist: "Savant", name: "Laser Sharks (Original Mix)", youtubeId: "WlCGZwc2A9M" },
   { artist: "Rihanna, Calvin Harris", name: "We Found Love", youtubeId: "UUpuyzPJeWA" },
   { artist: "Nickelback", name: "How You Remind Me", youtubeId: "vkvrbbtnp6s" },
   { artist: "Martin O’Donnell, Michael Salvatori", name: "Flawed Legacy (Halo 2)", youtubeId: "sVgkqB8Zdl0" },

@@ -651,7 +651,7 @@ export const songs = [
   { artist: "LVTHER, MYZICA", name: "Some Kind of Magic (feat. MYZICA)", youtubeId: "BC9Nu2cG5J4" },
   { artist: "Ricky Martin", name: "Livin' la Vida Loca", youtubeId: "98B9ZHOlk2E" },
   { artist: "Michael Jackson", name: "Wanna Be Startin' Somethin'", youtubeId: "8KWf_-ofYgI" },
-  { artist: "Prince & The Revolution", name: "Let's Go Crazy", youtubeId: "eCM2dEWGf-o" },
+  { artist: "Prince & The Revolution", name: "Let's Go Crazy", youtubeId: "WGtCC7bUkIw" },
   { artist: "Daryl Hall & John Oates", name: "Out of Touch", youtubeId: "DCkJ5lGPqFs" },
   { artist: "Blue Oyster Cult", name: "(Don't Fear) The Reaper", youtubeId: "Dy4HA3vUv2c" },
   { artist: "The Human League", name: "Don't You Want Me", youtubeId: "UscEO2ITyug" },

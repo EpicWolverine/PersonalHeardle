@@ -683,7 +683,7 @@ export const songs = [
   { artist: "The Ozark Mountain Daredevils", name: "Jackie Blue", youtubeId: "6xuW-aI-haw" },
   { artist: "Matchbox Twenty", name: "She's so Mean", youtubeId: "KCdPYV9bLPI" },
   { artist: "Bee Gees", name: "You Should Be Dancing", youtubeId: "4Qhe7aXeY4g" },
-  { artist: "Depeche Mode", name: "People Are People", youtubeId: "dY1vKArUrtA" },
+  { artist: "Depeche Mode", name: "People Are People", youtubeId: "MzGnX-MbYE4" },
   { artist: "Heart", name: "Tell It Like It Is", youtubeId: "lYWoj71iO_A" },
   { artist: "King Missile", name: "Cheesecake Truck", youtubeId: "R1QfjHZ2isU" },
   { artist: "Santana, Rob Thomas", name: "Smooth", youtubeId: "mom2TLs3Fi0" },

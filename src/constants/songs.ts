@@ -699,7 +699,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Gorillaz", name: "DARE", youtubeId: "SZP0NFRKBbs" },
   { artist: "Kool & The Gang", name: "Get Down On It", youtubeId: "1AVxBedMP4I" },
   { artist: "Fatboy Slim", name: "Weapon Of Choice", youtubeId: "TsRvbnQVI6I" },
-  { artist: "The Alan Parsons Project", name: "Games People Play", youtubeId: "GHyXUAKbq1M" },
+  { artist: "The Alan Parsons Project", name: "Games People Play", youtubeId: "YKtzP5a-yJ4" },
   { artist: "Madonna", name: "Into the Groove (Edit)", youtubeId: "1zh-0eupfNw" },
   { artist: "KC & The Sunshine Band", name: "Get Down Tonight", youtubeId: "tUMk0RbZDZY" },
   { artist: "Guns N' Roses", name: "Live And Let Die", youtubeId: "RywqQ_AKB9M" },

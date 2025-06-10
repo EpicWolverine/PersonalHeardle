@@ -765,7 +765,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Survivor", name: "Burning Heart (From \"Rocky IV\" Soundtrack)", youtubeId: "Nm7AA78Vq8o" },
   { artist: "Eminem, Nate Dogg", name: "Till I Collapse", youtubeId: "CO4kW70AchE" },
   { artist: "Seal", name: "Crazy", youtubeId: "L0NoJi8omqc" },
-  { artist: "Tom Petty And The Heartbreakers", name: "I Need to Know", youtubeId: "SkYhfDr77jc" },
+  { artist: "Tom Petty And The Heartbreakers", name: "I Need to Know", youtubeId: "GPKia199LPs" },
   { artist: "Boney M.", name: "Daddy Cool", youtubeId: "iQEpTa3VqLU" },
   { artist: "Fleetwood Mac", name: "You Make Loving Fun", youtubeId: "RqjXn2NflqU" },
   { artist: "Franz Ferdinand", name: "Take Me Out", youtubeId: "d11xns8lE4w" },

@@ -773,7 +773,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "EHAMIC, Frédéric Chopin", name: "Koinu no Carnival (from \"Minute Waltz\")", youtubeId: "ZhZxKhAilZk" },
   { artist: "Empire Of The Sun", name: "We Are The People", youtubeId: "r02mYOlfcCw" },
   { artist: "Ben Folds", name: "Rockin' the Suburbs", youtubeId: "nD30KV26ivg" },
-  { artist: "Loverboy", name: "Working for the Weekend", youtubeId: "wajEoz-Sm8U" },
+  { artist: "Loverboy", name: "Working for the Weekend", youtubeId: "cxhj1Is7HpY" },
   { artist: "Sly & The Family Stone", name: "Everyday People", youtubeId: "TU02G4wnWh0" },
   { artist: "Asia", name: "Heat Of The Moment", youtubeId: "nvdYll1euGU" },
   { artist: "The Cult", name: "She Sells Sanctuary", youtubeId: "cQS4TzB0EvU" },

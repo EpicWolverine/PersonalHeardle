@@ -808,7 +808,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "U2", name: "Vertigo", youtubeId: "8TXnjGtIhyc" },
   { artist: "Free", name: "All Right Now", youtubeId: "qBj5zJjHoSk" },
   { artist: "The Bangles", name: "Walk Like an Egyptian", youtubeId: "cFGCu5hnLyA" },
-  { artist: "Cypis", name: "Gdzie jest biały węgorz ? (Zejście)", youtubeId: "nVxGcpBdk5k" },
+  { artist: "Cypis", name: "Gdzie jest biały węgorz ? (Zejście)", youtubeId: "qrxv0JNVtgY" },
   { artist: "Madonna", name: "Material Girl", youtubeId: "UZton86SuOg" },
   { artist: "Oasis, Noel Gallagher", name: "Don't Look Back In Anger", youtubeId: "oplra1FJxWI" },
   { artist: "The Rembrandts", name: "I'll Be There for You (Theme From \"Friends\")", youtubeId: "RIjTq_OdFvo" },

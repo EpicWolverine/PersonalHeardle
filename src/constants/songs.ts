@@ -858,7 +858,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Eurythmics, Annie Lennox, Dave Stewart", name: "Thorn In My Side", youtubeId: "-kDlEZb_7so" },
   { artist: "Derek & The Dominos", name: "Layla", youtubeId: "TngViNw2pOo" },
   { artist: "Billy Joel", name: "Say Goodbye to Hollywood", youtubeId: "SrFy957l8ko" },
-  { artist: "Prince", name: "When Doves Cry", youtubeId: "oTUSeac7IuQ" },
+  { artist: "Prince", name: "When Doves Cry", youtubeId: "Izx6DQUrsag" },
   { artist: "Yes", name: "Leave It (Single Remix)", youtubeId: "tSgz2B-Nn5Y" },
   { artist: "Aretha Franklin", name: "Respect", youtubeId: "A134hShx_gw" },
   { artist: "Above & Beyond", name: "Giving It Out (feat. Zoë Johnston)", youtubeId: "5hJE3JCexDM" },

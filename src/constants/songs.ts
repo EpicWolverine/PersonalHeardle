@@ -924,7 +924,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Mega Man X", name: "Storm Eagle (Sega Genesis Remix)", youtubeId: "F28uArEvtxI" },
   { artist: "The Police", name: "Every Little Thing She Does Is Magic", youtubeId: "5WEjz2YoH80" },
   { artist: "Pegboard Nerds", name: "Try This (Just Shapes & Beats)", youtubeId: "GIK5VWI_iqM" },
-  { artist: "Jet", name: "Are You Gonna Be My Girl", youtubeId: "54dLepp2b0A" },
+  { artist: "Jet", name: "Are You Gonna Be My Girl", youtubeId: "tuK6n2Lkza0" },
   { artist: "Def Leppard", name: "Pour Some Sugar On Me", youtubeId: "Rqs4cMyMLnY" },
   { artist: "R.E.M.", name: "The One I Love", youtubeId: "pBHBuFqy6I8" },
   { artist: "AC/DC", name: "Thunderstruck", youtubeId: "v2AC41dglnM" },

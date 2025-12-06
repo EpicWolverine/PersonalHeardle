@@ -944,7 +944,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Skid Row", name: "18 and Life", youtubeId: "ztzkz0r1RG8" },
   { artist: "Niko", name: "Night of Fire (Extended mix)", youtubeId: "7BTWpImCDq4" },
   { artist: "Imagine Dragons", name: "My Fault", youtubeId: "Px5QYwr1X5k" },
-  { artist: "Journey", name: "Separate Ways (Worlds Apart)", youtubeId: "haCOU64qCo4" },
+  { artist: "Journey", name: "Separate Ways (Worlds Apart)", youtubeId: "uH64qV71uUQ" },
   { artist: "The Police", name: "Message In A Bottle", youtubeId: "WMl1xKJeuuQ" },
   { artist: "Donna Summer", name: "MacArthur Park", youtubeId: "Rkt8mtIkYI4" },
   { artist: "Electric Light Orchestra", name: "Shine a Little Love", youtubeId: "kZd2qCxgPEM" },

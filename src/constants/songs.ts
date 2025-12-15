@@ -953,7 +953,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Shania Twain", name: "Honey, I'm Home", youtubeId: "a-P-bcMbK1I" },
   { artist: "Queen", name: "Bohemian Rhapsody", youtubeId: "utwMHfDZ6SA" },
   { artist: "Nickelback", name: "Rockstar", youtubeId: "OiQEfJFMzDw" },
-  { artist: "Can't Stop Won't Stop", name: "Cool Summer", youtubeId: "0NeVgwY0wJc" },
+  { artist: "Can't Stop Won't Stop", name: "Cool Summer", youtubeId: "nwXv_dQ333c" },
   { artist: "Maroon 5", name: "This Love", youtubeId: "AqQuRw0S6b4" },
   { artist: "Foo Fighters", name: "Best of You", youtubeId: "L6SIgRlijmU" },
   { artist: "OK Go", name: "Do What You Want", youtubeId: "zUTQ6b8Uq6g" },

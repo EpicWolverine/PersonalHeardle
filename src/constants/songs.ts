@@ -1014,7 +1014,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "MGMT", name: "Electric Feel", youtubeId: "r78xfXZb_WU" },
   { artist: "Billy Squier", name: "My Kinda Lover", youtubeId: "nI33SNkIsMw" },
   { artist: "Bob Seger & The Silver Bullet Band", name: "Night Moves", youtubeId: "ePCiVK5Jjos" },
-  { artist: "Bryan Adams", name: "Cuts Like A Knife (Classic Version)", youtubeId: "4J_QbsH-Onk" },
+  { artist: "Bryan Adams", name: "Cuts Like A Knife", youtubeId: "sjRlVjOZsGI" },
   { artist: "Eddie Money", name: "Take Me Home Tonight", youtubeId: "FGb381tMJrw" },
   { artist: "M|A|R|R|S", name: "Pump Up The Volume", youtubeId: "w9gOQgfPW4Y" },
   { artist: "Boston", name: "Cool The Engines", youtubeId: "jw0YNvlFOrI" },

@@ -1034,7 +1034,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Jim Croce", name: "Bad, Bad Leroy Brown", youtubeId: "JzYf6qskdfA" },
   { artist: "Michelle Branch", name: "All You Wanted", youtubeId: "54GTRiMDOYA" },
   { artist: "Enigma", name: "Return To Innocence (Radio Edit)", youtubeId: "7vUjpAz7Z5k" },
-  { artist: "Darren Korb", name: "A Proper Story (Bastion)", youtubeId: "Z9y0iFVAbDg" },
+  { artist: "Darren Korb", name: "A Proper Story (Bastion)", youtubeId: "x3BDiQQ98ik" },
   { artist: "Annie Lennox", name: "Walking on Broken Glass", youtubeId: "nSN0YysStgY" },
   { artist: "Eminem", name: "The Real Slim Shady", youtubeId: "r5MR7_INQwg" },
   { artist: "Wolfmother", name: "Joker And The Thief", youtubeId: "iR5RY7pnMGI" },

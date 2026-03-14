@@ -1042,7 +1042,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Two Steps from Hell, Thomas Bergersen", name: "Protectors of the Earth", youtubeId: "Y54rf5FfO90" },
   { artist: "Atlanta Rhythm Section", name: "So Into You", youtubeId: "wzCdSJu5xqI" },
   { artist: "blink-182", name: "All The Small Things", youtubeId: "5_PBNZXlzp0" },
-  { artist: "Greg Kihn Band", name: "Jeopardy", youtubeId: "5iZSlA4s5Xs" },
+  { artist: "Greg Kihn Band", name: "Jeopardy", youtubeId: "l9DUtnVGYuY" },
   { artist: "Queen", name: "Don't Stop Me Now", youtubeId: "RrDKoXWKMmY" },
   { artist: "KT Tunstall", name: "Suddenly I See", youtubeId: "eX7lFYAaO-c" },
   { artist: "The Clash", name: "I Fought the Law", youtubeId: "ed2ZwYbVk-4" },

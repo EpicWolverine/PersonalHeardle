@@ -1043,7 +1043,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Atlanta Rhythm Section", name: "So Into You", youtubeId: "wzCdSJu5xqI" },
   { artist: "blink-182", name: "All The Small Things", youtubeId: "5_PBNZXlzp0" },
   { artist: "Greg Kihn Band", name: "Jeopardy", youtubeId: "l9DUtnVGYuY" },
-  { artist: "Queen", name: "Don't Stop Me Now", youtubeId: "RrDKoXWKMmY" },
+  { artist: "Queen", name: "Don't Stop Me Now", youtubeId: "R8xYWbRNzyA" },
   { artist: "KT Tunstall", name: "Suddenly I See", youtubeId: "eX7lFYAaO-c" },
   { artist: "The Clash", name: "I Fought the Law", youtubeId: "ed2ZwYbVk-4" },
   { artist: "Modern English", name: "I Melt with You (7\" Mix)", youtubeId: "Is-osO04u3c" },

@@ -1071,7 +1071,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Red Hot Chili Peppers", name: "Otherside", youtubeId: "8901V1M5lDk" },
   { artist: "Thompson Twins", name: "Hold Me Now", youtubeId: "3c3P86kALbk" },
   { artist: "Peter Bjorn and John", name: "Young Folks", youtubeId: "OIRE6iw-ws4" },
-  { artist: "Roxette", name: "The Look", youtubeId: "-1lHYs--Pik" },
+  { artist: "Roxette", name: "The Look", youtubeId: "dzrPH89rtWY" },
   { artist: "Michael Jackson", name: "Thriller", youtubeId: "Z85lxckrtzg" },
   { artist: "Bo Burnham", name: "Bezos I", youtubeId: "7_EeCkHs-e0" },
   { artist: "Sum 41", name: "In Too Deep", youtubeId: "ecHf1zkYRVg" },

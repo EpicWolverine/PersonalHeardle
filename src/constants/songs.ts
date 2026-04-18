@@ -1077,7 +1077,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Sum 41", name: "In Too Deep", youtubeId: "ecHf1zkYRVg" },
   { artist: "Tom Petty And The Heartbreakers", name: "Refugee", youtubeId: "8vDgheSFX04" },
   { artist: "Dolly Parton", name: "9 to 5", youtubeId: "E4OzdyxbOuU" },
-  { artist: "Talking Heads", name: "Psycho Killer", youtubeId: "tqQGWhge5yo" },
+  { artist: "Talking Heads", name: "Psycho Killer", youtubeId: "eauZzwt8Ci8" },
   { artist: "T. Rex", name: "Bang a Gong (Get It On)", youtubeId: "gEeHOOudKOw" },
   { artist: "Def Leppard", name: "Rock Of Ages", youtubeId: "fTAOLmEba4I" },
   { artist: "Mike Posner", name: "Cooler Than Me (Single Mix)", youtubeId: "Bsr8hb3TPBI" },

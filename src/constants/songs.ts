@@ -1085,7 +1085,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Huey Lewis & The News", name: "I Want A New Drug", youtubeId: "0PhqlB-uTX8" },
   { artist: "Cher", name: "Believe", youtubeId: "oOGxKLUMbbc" },
   { artist: "Coldplay", name: "Speed of Sound", youtubeId: "04tC72kZM_o" },
-  { artist: "Pink Floyd", name: "Money", youtubeId: "rwPM01cbQBc" },
+  { artist: "Pink Floyd", name: "Money", youtubeId: "2aW7HweAf3o" },
   { artist: "Madness", name: "Our House", youtubeId: "r0KzvXf-_Zw" },
   { artist: "Devo", name: "Whip It", youtubeId: "3bXEHGUvVrA" },
   { artist: "Kenny Loggins", name: "Danger Zone (From \"Top Gun\" Original Soundtrack)", youtubeId: "9ID4RAqCqnQ" },

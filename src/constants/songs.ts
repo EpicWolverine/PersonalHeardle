@@ -1137,7 +1137,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Bad Company", name: "Feel like Makin' Love (2015 Remaster)", youtubeId: "eHhI7fZ6aIk" },
   { artist: "Beck", name: "Dreams", youtubeId: "VitGoB06nWQ" },
   { artist: "Eagles of Death Metal", name: "Miss Alissa", youtubeId: "sHLEZ8YdiNo" },
-  { artist: "twenty one pilots", name: "The Outside", youtubeId: "LDg8UW51jCs" },
+  { artist: "twenty one pilots", name: "The Outside", youtubeId: "m2w6GkV3U6Q" },
   { artist: "American Hi-Fi", name: "Flavor Of The Weak", youtubeId: "B-mi4SdTomM" },
   { artist: "Pink Floyd", name: "Learning To Fly", youtubeId: "2mKDvp7MavQ" },
   { artist: "Dean Summerwind", name: "Parked out by the Lake", youtubeId: "KtVqxX-ZIE0" },

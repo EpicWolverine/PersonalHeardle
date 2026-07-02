@@ -70,9 +70,9 @@ def main():
     generator = PlaylistGenerator()
     urls = generator.get_urls_from_file(args.urls_file)
     video_info = generator.extract(urls)
-    shuffle(video_info)
+    # shuffle(video_info)
     js_playlist = generator.build_playlist_string(video_info)
-    with open(args.output_file, 'w') as f:
+    with open(args.output_file, 'w', encoding='utf-8') as f:
         f.write(js_playlist)
 
 

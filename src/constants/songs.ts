@@ -1154,7 +1154,7 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Kenny Chesney", name: "She Thinks My Tractor's Sexy", youtubeId: "_R25dKqcdYs" },
   { artist: "Michael McDonald", name: "I Keep Forgettin' (Every Time You're Near)", youtubeId: "L0qBulm0hbg" },
   { artist: "Ramones", name: "Blitzkrieg Bop", youtubeId: "NQDPx_k66w4" },
-  { artist: "Yes", name: "Owner of a Lonely Heart", youtubeId: "IG_VDj8Eh_g" },
+  { artist: "Team America", name: "America, F*** Yeah", youtubeId: "MhQ5678cJU8" },
   { artist: "Len", name: "Steal My Sunshine", youtubeId: "Cl6-1MvzMWY" },
   { artist: "Corey Hart", name: "Never Surrender", youtubeId: "ucfu4EaoNRM" },
   { artist: "Pendulum, Armin van Buuren, Rob Swire", name: "Sound of You", youtubeId: "5Y7a0v7NRkc" },

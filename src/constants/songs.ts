@@ -1636,7 +1636,6 @@ export const songs = [ { artist: "CAKE", name: "The Distance", youtubeId: "JH6il
   { artist: "Hayden James, AR/CO", name: "We Could Be Love", youtubeId: "QecPv4Gl6FU" },
   { artist: "Dierks Bentley", name: "What Was I Thinkin'", youtubeId: "iuYmH2yLaHA" },
   { artist: "Luke Bryan", name: "Do I", youtubeId: "E1I4YTFdFLQ" },
-  { artist: "Lee Ann Womack", name: "I Hope You Dance", youtubeId: "ozR3XL4cab0" },
   { artist: "Ace of Base", name: "All That She Wants", youtubeId: "FpkawF5GWMI" },
   { artist: "David Lee Murphy", name: "Dust On The Bottle", youtubeId: "XhWvFRNIfag" },
   { artist: "Bad English", name: "Forget Me Not", youtubeId: "XXl4YENui1w" },
